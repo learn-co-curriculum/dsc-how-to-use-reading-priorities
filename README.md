@@ -4,7 +4,7 @@ This page explains how to use the daily Reading Priorities pages that are shared
 
 # Motivation
 
-Our program is fast paced, and we want to help you focus your time and energy on the activities that will best support your learning. The Canvas courses contain a lot of material - more than most students will be able to complete during the program. The Reading Priorities pages can help you make sure that you are learning the core concepts and skills on schedule so you stay on track throughout the program.
+Our program is fast paced, and we want to help you focus your time on the activities that will best support your learning. The Canvas courses contain a lot of material - more than most students will be able to complete during the program. The Reading Priorities pages can help you make sure that you are learning the core concepts and skills on schedule so you stay on track throughout the program.
 
 # Priority Levels
 
