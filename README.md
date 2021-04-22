@@ -2,7 +2,7 @@ This page explains how to use the daily Reading Priorities pages that are shared
 
 # Motivation
 
-Our program is fast paced, and we want to help you focus your time and energy on the activities that will best support your learning. The Canvas courses contain a lot of material - more than most students will be able to complete during the program. The Reading Priorities pages aim to help you make sure that you are learning the core concepts and skills on schedule so you stay on track throughout the program.
+Our program is fast paced, and we want to help you focus your time and energy on the activities that will best support your learning. The Canvas courses contain a lot of material - more than most students will be able to complete during the program. The Reading Priorities pages can help you make sure that you are learning the core concepts and skills on schedule so you stay on track throughout the program.
 
 # Priority Levels
 
@@ -16,7 +16,7 @@ The Reading Priorities pages assign priority levels to readings to help you mana
 
 # Adjusting the Schedule
 
-The readings for each day are chosen to prepare you for the lectures that will be delivered that day or the following day. However, you should feel free to adjust them as needed for your own learning. Some possible adjustments you might make: 
+The readings for each day are chosen to prepare you for the lectures that will be delivered that day or the following day. However, you should feel free to adjust your personal reading schedule as needed for your own learning. Some possible adjustments you might make: 
 
 * If Monday’s readings cover material for a lecture that is happening on Tuesday afternoon, complete some of those readings on Tuesday morning instead.
 
@@ -34,4 +34,4 @@ Complete the Cumulative Labs soon after you’ve participated in the lecture tha
 
 # Summary
 
-The reading priorities pages should help you manage your time through Phases 1-4. Most of your time in the program will be spent outside of live class sessions, so the quality of your learning experience will depend greatly on how you use that time. Your instructor will give some instructions for how to use your time. Follow their instructions, and then use these reading priorities to help decide how best to use any remaining unstructured time. If you ever have any questions about what you should be doing, reach out to your peers or your instructor.
+The Reading Priorities pages should help you manage your time through Phases 1-4. Most of your time in the program will be spent outside of live class sessions, so the quality of your learning experience will depend greatly on how you use that time. Your instructor will give some instructions for how to use your time. Follow their instructions, and then use these Reading Priorities pages to help decide how best to use any remaining unstructured time. If you ever have any questions about what you should be doing, reach out to your peers or your instructor.
