@@ -1,3 +1,5 @@
+# How to Use Daily Reading Priorities
+
 This page explains how to use the daily Reading Priorities pages that are shared throughout the program. Your instructor may also provide guidance that modifies these instructions. 
 
 # Motivation
